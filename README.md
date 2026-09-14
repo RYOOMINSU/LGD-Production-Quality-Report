@@ -1,4 +1,7 @@
+
 # LGD-Production-Quality-Report
+
+<img width="985" height="795" alt="깃허브 사진" src="https://github.com/user-attachments/assets/70338e62-345e-49e4-8aae-b1ae528e6413" />
 
 # LG Display 생산·품질 업무 보고서
 
